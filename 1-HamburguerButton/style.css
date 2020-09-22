@@ -23,6 +23,9 @@ button {
   padding: 1rem;
   transition: transform 0.3s ease-in-out;
 }
+button:focus {
+  outline: 0 !important;
+}
 
 button.active {
   transform: translateX(-100px);

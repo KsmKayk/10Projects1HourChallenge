@@ -21,6 +21,9 @@ button {
   border: none;
   font-family: inherit;
 }
+button:focus {
+  outline: 0 !important;
+}
 
 .popupContainer {
   position: fixed;
