@@ -15,3 +15,5 @@ The projects are:
 10. Zoom Effect
 
 **Thank you for reading this readme ^-^**
+
+**note 1 -** I lost the challenge, but I will finish all projects even after 1 hour
